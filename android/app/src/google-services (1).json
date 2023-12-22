@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444843594711",
+    "project_id": "dathang-fafef",
+    "storage_bucket": "dathang-fafef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444843594711:android:0b70eac1adc5743ff23192",
+        "android_client_info": {
+          "package_name": "com.company.banHang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIT1GP0w0bfLNDDiUq2DR93uAExTXGQUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
